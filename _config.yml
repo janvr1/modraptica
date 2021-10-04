@@ -104,14 +104,14 @@ keywords: "modra,ptica,društvo,modelarstvo,domžale"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#d6f0ef"
+navbar-col: "#ADD8E6"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#d6f0ef"
+footer-col: "#ADD8E6"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -187,7 +187,7 @@ staticman:
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d.%m.%Y"
 
 # Facebook App ID
 #fb_app_id: ""
@@ -195,7 +195,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Ljubljana"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
