@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kontakt
+---
+
 ### Naši podatki so:
 ```
 DRUŠTVO ZA MODELARSTVO IN AERONAVTIKO MODRA PTICA DOMŽALE
