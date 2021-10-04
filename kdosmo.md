@@ -12,7 +12,8 @@ Naša glavna dejavnost je izdelava in letenje daljinsko upravljanih modelov in m
 Pri tem hobiju si mladi nabirajo neprecenljiva fizikalna znanja o povezana z letenjem letal, mehaniko, elektrotehniko, elektroniko...  Zelo pomembna pa je medsebojna pomoč članov pri prenosu izkušenj.
 Vsako leto tradicionalno organiziramo modelarska srečanja oz. tekmovanja - tudi na na državnem in mednarodnem nivoju. Sodelujemo tudi na  prireditvah v svoji občini. Aktivno nastopamo na modelarskih mitingih in tekmovanjih v Sloveniji, kjer se uvrščamo tudi v sam vrh. Prav tako se glede na dane možnosti udeležujemo tudi modelarskih tekmovanj v tujini. 
 
-Leta 2015 je Društvo za modelarstvo in aeronavtiko prejelo tudi  NAGRADO OBČINE DOMŽALE z naslednjo obrazložitvijo: 
+Leta 2015 je Društvo za modelarstvo in aeronavtiko prejelo tudi  NAGRADO OBČINE DOMŽALE z naslednjo obrazložitvijo:
+
 Društvo za modelarstvo in aeronavtiko Modra ptica je v štirih desetletjih aktivnega delovanja postalo eno najbolj prepoznavnih tovrstnih društev na področju modelarstva v Sloveniji. V svoje delo vključujejo vse generacije, posebno skrb pa namenjajo izobraževanju in usposabljanju mladih za tehnično kulturo, s številnimi prireditvami pa promovirajo to področje tehnične kulture doma in v svetu, uspešni pa so tudi po organizacijski in tekmovalni plati. V zadnjih letih so uredili modelarsko stezo med Dobom in Krtino, kjer se redno zbirajo, organizirajo srečanja in tekmovanja. 
 
 ### Včlanitev
