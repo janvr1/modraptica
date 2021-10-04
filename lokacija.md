@@ -9,7 +9,7 @@ title: Lokacija
 [Google Maps](https://goo.gl/maps/t5ZoC6qG4zrA2TCy7)
 
 ## Offroad RC arena Blatni dol
-[blatnidol.com/](https://blatnidol.com/)
+[blatnidol.com](https://blatnidol.com/)
 
 ## Onroad RC steza Ježica
-[avto.modraptica.si/](http://avto.modraptica.si/)
+[avto.modraptica.si](http://avto.modraptica.si/)
