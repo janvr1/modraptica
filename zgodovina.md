@@ -3,5 +3,4 @@ layout: page
 title: Zgodovina
 ---
 
-Smo cca. XY člansko društvo.....
-Vkolikor se želite včalniti nam pišite na (dma@modraptica.si)[mailto:dma@modraptica.si].
+Društvo za modelarstvo in aeronavtiko Modra Ptica je bilo ustavnoljeno leta 1983 v Domžalah......
