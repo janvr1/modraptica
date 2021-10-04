@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pozdravljeni na novih spletnih straneh DMA Modra Ptica
-subtitle:
+title: Nova spletna stran
+subtitle: Pozdravljeni na novih spletnih straneh DMA Modra Ptica
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
