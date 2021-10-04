@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [novice]
 ---
 
-Po dolgem času so ponovno zaživele spletne strani našega društva
+Po dolgem času so ponovno zaživele spletne strani našega društva.
