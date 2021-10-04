@@ -2,6 +2,9 @@
 layout: page
 title: Kdo smo
 ---
+
+![Modra Ptica logo](/assets/img/dma-logo.jpg)
+
 ### O društvu
 Smo cca. XY člansko društvo... Prisotni smo predvsem v panogah letalskega modelarstvo in avtomodelrastva.
 
