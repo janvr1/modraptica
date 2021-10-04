@@ -2,9 +2,9 @@
 layout: post
 title: Pozdravljeni na novih spletnih straneh DMA Modra Ptica
 subtitle:
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
 comments: false
 tags: [novice]
 ---
