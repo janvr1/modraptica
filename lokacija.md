@@ -20,6 +20,6 @@ Za vse informacije glede Blatnega dola obiščite: [blatnidol.com](https://blatn
 ## Onroad RC steza Ježica
 RC steza Ježica se nahaja na poligonu avtošole Ježica pri Ljubljani. Člani društva tam organizirajo dirke s cestnimi modeli avtomobilov v merilih 1:8 in 1:10.
 
-Za vse informacije glede RC steze ježice obiščite: [avto.modraptica.si](http://avto.modraptica.si).
+Za vse informacije glede RC steze Ježica obiščite: [avto.modraptica.si](http://avto.modraptica.si).
 
 ![Ježica](/assets/img/jezica.jpg)
