@@ -13,8 +13,8 @@ V nedeljo 17.10.2021 je na modelarskem vzletišču potekalo mednarodno tekmovanj
 
 Rezultate tekmovanja najdete tukaj: [WW1](http://forum.modelarji.com/download/file.php?id=242452&sid=a25770034be8e30f0b7aefcd6e5d283c), [WW2](http://forum.modelarji.com/download/file.php?id=242453&sid=a25770034be8e30f0b7aefcd6e5d283c) in [EPA](http://forum.modelarji.com/download/file.php?id=242451&sid=a25770034be8e30f0b7aefcd6e5d283c).
 
-![Slika 1](/assets/img/Krtina_Combat_1.jpg)
+![Slika 1](/assets/img/Combat_Krtina_1.jpg)
 
-![Slika 2](/assets/img/Krtina_Combat_2.jpg)
+![Slika 2](/assets/img/Combat_Krtina_2.jpg)
 
-![Slika 3](/assets/img/Krtina_Combat_3.jpg)
+![Slika 3](/assets/img/Combat_Krtina_3.jpg)
