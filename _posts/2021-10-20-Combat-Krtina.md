@@ -3,8 +3,8 @@ layout: post
 title: Combat Krtina 2021
 subtitle: Tekmovanje v zračnih bojih - Memorial Janka Nagliča 2021
 #cover-img: /assets/img/
-thumbnail-img: /assets/img/Krtina_Combat_1.jpg
-share-img: /assets/img/Krtina_Combat_1.jpg
+thumbnail-img: /assets/img/Combat_Krtina_1.jpg
+share-img: /assets/img/Combat_Krtina_1.jpg
 comments: false
 tags: [novice,combat]
 ---
