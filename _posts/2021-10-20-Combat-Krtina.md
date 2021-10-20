@@ -6,7 +6,7 @@ subtitle: Tekmovanje v zračnih bojih - Memorial Janka Nagliča 2021
 thumbnail-img: /assets/img/Combat_Krtina_1.jpg
 share-img: /assets/img/Combat_Krtina_1.jpg
 comments: false
-tags: [novice,combat]
+tags: [novice, combat]
 ---
 
 V nedeljo 17.10.2021 je na modelarskem vzletišču potekalo mednarodno tekmovanje v zračnih bojih Combat Krtina. Tekmovalci iz Slovenije in sosednjih držav so se pomerili v kategorijah WW1 (prva svetovna vojna), WW2 (druga svetovna vojna) in EPA (penasti modeli). Najprej so vzleteli tekmovalci kategorije EPA in WW1, ki so poskrbeli za slikovito bitko v meglenem ozračju. Tekom dneva se je megla razblinila in v sončnem vremenu smo bili priča napetim bojem v finalnih vožnjah kategorije WW2.
