@@ -3,8 +3,8 @@ layout: post
 title: Krka Cup 2021
 subtitle: Reportaža našega člana
 #cover-img: /assets/img/krka_cup_cover.jpg
-thumbnail-img: /assets/img/2021-10-07_cover.jpg
-share-img: /assets/img/2021-10-07_cover.jpg
+thumbnail-img: /assets/img/2021-10-07_thumb.jpg
+share-img: /assets/img/2021-10-07_thumb.jpg
 comments: false
 tags: [novice]
 ---
@@ -16,4 +16,4 @@ V soboto in nedeljo (23-24.10.2021) je potekala tekma svetovenga pokala v letals
 >
 >l.p. Tone
 
-Rezultati tekmovanja: [Klik](/assets/img/2021-10-25_rezultati.pdf)
+Rezultati tekmovanja: [F1A](/assets/img/2021-10-25_rezultati_f1a.jpg), [F1B in F1C](/assets/img/2021-10-25_rezultati.pdf)
