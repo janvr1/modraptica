@@ -11,7 +11,7 @@ tags: [novice, combat]
 
 V nedeljo 17.10.2021 je na modelarskem vzletišču potekalo mednarodno tekmovanje v zračnih bojih Combat Krtina. Tekmovalci iz Slovenije in sosednjih držav so se pomerili v kategorijah WW1 (prva svetovna vojna), WW2 (druga svetovna vojna) in EPA (penasti modeli). Najprej so vzleteli tekmovalci kategorije EPA in WW1, ki so poskrbeli za slikovito bitko v meglenem ozračju. Tekom dneva se je megla razblinila in v sončnem vremenu smo bili priča napetim bojem v finalnih vožnjah kategorije WW2.
 
-Rezultate tekmovanja najdete tukaj: [WW1](/assets/img/2021-10-20_rezultati_ww1.jpg), [WW2](/assets/img/2021-10-20_rezultati_ww2.jpg) in [EPA](/assets/img/2021-10-20_rezultati_epa.jpg).
+Rezultate tekmovanja najdete tukaj: [WW1](https://raw.githubusercontent.com/janvr1/modraptica/gh-pages/assets/img/2021-10-20_rezultati_ww1.pdf), [WW2](https://raw.githubusercontent.com/janvr1/modraptica/gh-pages/assets/img/2021-10-20_rezultati_ww2.pdf) in [EPA](https://raw.githubusercontent.com/janvr1/modraptica/gh-pages/assets/img/2021-10-20_rezultati_epa.pdf).
 
 ![Slika 1](/assets/img/2021-10-20_combat_1.jpg)
 
