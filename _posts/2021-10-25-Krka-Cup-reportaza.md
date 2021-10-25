@@ -3,8 +3,8 @@ layout: post
 title: Krka Cup 2021
 subtitle: Reportaža našega člana
 #cover-img: /assets/img/krka_cup_cover.jpg
-thumbnail-img: /assets/img/2021-10-07_thumb.jpg
-share-img: /assets/img/2021-10-07_thumb.jpg
+thumbnail-img: /assets/img/2021-10-07_thumb.png
+share-img: /assets/img/2021-10-07_thumb.png
 comments: false
 tags: [novice]
 ---
