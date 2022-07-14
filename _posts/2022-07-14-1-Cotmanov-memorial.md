@@ -9,7 +9,8 @@ comments: false
 tags: [novice]
 ---
 
-V nedeljo, **17.07. 2022**  prireja naše društvo **"1. Cotmanov memorial"**, ki se bo odvil na modelarski stezi v Krtini pri Domžalah ([lokacija](https://modraptica.si/lokacija/)).\
+V nedeljo, **17.07. 2022**  prireja naše društvo **"1. Cotmanov memorial"**, ki se bo odvil na modelarski stezi v Krtini pri Domžalah ([lokacija](https://modraptica.si/lokacija/)).
+
 Dogodek bo potekal v obliki odprtega piknika, z letenjem od 10:00 pa vse do mraka, lahko pa tudi pozno v noč… Za pijačo in jedačo poskrbljeno.
 
 Vabljeni vsi člani društva, bodoči člani in pa tudi vsi navdušenci takšnih in drugačnih letalnih naprav ne glede na to od kje prihajate. Se vidimo!
