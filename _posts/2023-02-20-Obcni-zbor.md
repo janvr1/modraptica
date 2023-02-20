@@ -24,6 +24,5 @@ Dnevni red:
 Na dan občnega zbora boste lahko poravnali tudi članarino za leto 2023.
 Zaradi lažje organizacije lepo prosimo za potrditev udeležbe na mail dma@modraptica.si do četrtka, 23.02. Hvala!
 
-Modelarski pozdrav!
-Gusti OGRINEC
-predsednik
+Modelarski pozdrav!\
+Gusti OGRINEC, predsednik
