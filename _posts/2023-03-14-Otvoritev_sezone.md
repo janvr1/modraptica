@@ -9,7 +9,7 @@ comments: false
 tags: [novice]
 ---
 
-Vse člane društva vabimo na otvoritev sezone 2023, ki bo v **soboto 18. marca 2022 ob 14.00  uri** na letalski stezi v Krtini. 
+Vse člane društva vabimo na otvoritev sezone 2023, ki bo v **soboto 18. marca 2023 ob 14.00  uri** na letalski stezi v Krtini. 
 Ob tej priložnosti bomo postorili vse potrebno za čim boljše pogoje za letenje in druženje na naši stezi.
 
 Okviren plan aktivnosti:
