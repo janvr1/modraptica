@@ -24,7 +24,7 @@ Lokacija: [Modelarsko letališče Krtina](/lokacija/)
 | Samo EPA  | 10 |
 | 2 ali 3 kategorije | 20 |
 
-<br/>
+Urnik in potek se bosta prilagajala vremenu in situaciji.
 
 |  Urnik  |  |
 | ----------- | ----------- |
@@ -40,8 +40,6 @@ Predviden potek:
 1. 3xWW2
 1. 1xEPA
 1. finale ww2
-
-Urnik in potek se bosta prilagajala vremenu in situaciji.
 
 Naprošamo vse tekmovalce da se prijavijo na mail: [avgustinog@gmail.com](mailto:avgustinog@gmail.com?subject=[Prijava]%20Combat%20Krtina%2016.04.2023)
 
