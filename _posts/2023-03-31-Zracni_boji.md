@@ -23,6 +23,7 @@ Lokacija: [Modelarsko letališče Krtina](/lokacija/)
 | 1 kategorija | 15 |
 | Samo EPA  | 10 |
 | 2 ali 3 kategorije | 20 |
+
 <br/>
 
 |  Urnik  |  |
