@@ -13,8 +13,7 @@ V nedeljo 16.04.2023 društvo DMA Modra Ptica organizira tekmovanje v zračnih b
 WWII tekma se vrši po pravilniku ACES / 3 krogi + finale za 7 najbolje uvrščenih. <br/>
 WWI 1:8 scale tekma po novem ACES pravilniku – 2 kroga.<br/>
 EPA – 3 krogi.<br/>
-Tekmovalec mora biti zavarovan in tekmuje na lastno odgovornost. Veljavne so vse frekvence 35A, 35B, 40 MHz in 2,4 GHz.
-
+Veljavne so vse frekvence 35A, 35B, 40 MHz in 2,4 GHz. **Tekmovalec mora biti zavarovan in tekmuje na lastno odgovornost.**
 
 Lokacija: [Modelarsko letališče Krtina](/lokacija/)
 
@@ -23,9 +22,7 @@ Lokacija: [Modelarsko letališče Krtina](/lokacija/)
 | 1 kategorija | 15 |
 | Samo EPA  | 10 |
 | 2 ali 3 kategorije | 20 |
-
 <br/>
-
 |  Urnik  |  |
 | ----------- | ----------- |
 | 9:00 - 10:00 | Prijave, testni poleti |
