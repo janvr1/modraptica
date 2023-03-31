@@ -25,6 +25,7 @@ Lokacija: [Modelarsko letališče Krtina](/lokacija/)
 | 2 ali 3 kategorije | 20 |
 
 
+
 |  Urnik  |  |
 | ----------- | ----------- |
 | 9:00 - 10:00 | Prijave, testni poleti |
