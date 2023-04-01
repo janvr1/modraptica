@@ -41,7 +41,7 @@ Predviden potek:
 1. 1xEPA
 1. finale ww2
 
-Naprošamo vse tekmovalce da se prijavijo na mail: [avgustinog@gmail.com](mailto:avgustinog@gmail.com?subject=[Prijava]%20Combat%20Krtina%2016.04.2023)
+Naprošamo vse tekmovalce da se prijavijo na mail: [avgustinog@gmail.com](mailto:marko.sajovic@blim.si?subject=[Prijava]%20Combat%20Krtina%2016.04.2023)
 
 V primeru slabega vremena se bo tekmovanje prestavilo. Končna odločitev glede vremena bo predvidoma v četrtek 13.04. zvečer.<br/>
 Za vse ostale informacije: **041 639 346**, *Gusti Ogrinec*
