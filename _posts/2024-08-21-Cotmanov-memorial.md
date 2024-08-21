@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Polet v novo leto
-subtitle: na vzletni stezi v Krtini
+title: Cotmanov memorial
+subtitle: modelarsko srečanje v Krtini
 #cover-img:
 #thumbnail-img:
 #share-img:
