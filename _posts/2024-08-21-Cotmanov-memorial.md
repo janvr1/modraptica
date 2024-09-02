@@ -14,6 +14,6 @@ Modelarsko društvo DMA Modra ptica organizira modelarsko srečanje - Cotmanov m
 Če je pa kdo bolj “zagnan”, pa seveda lahko pride že prej in preizkusi našo prenovljeno lepo stezo.
 Vabljeni!
 
-![Slika 2](/assets/img/2024-08-21-Cotmanov-memorial)
+![Slika 2](/assets/img/2024-08-21-Cotmanov-memorial.jpg)
 
 UO DMA Modra ptica
