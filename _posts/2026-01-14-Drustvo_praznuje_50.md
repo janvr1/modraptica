@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Plan dela
-subtitle: za leto 2024
+title: DMA Modra Ptica praznuje
+subtitle: že 50 leto obstoja
 #cover-img:
 #thumbnail-img:
 #share-img:
@@ -9,6 +9,6 @@ comments: false
 tags: [novice]
 ---
 
-DMA Modra Ptica praznuje 50 letnico - ustanovljeno je bilo v decembru 1975.
+Naše društvo - DMA Modra Ptica praznuje 50 letnico. Ustanovljeno je bilo v decembru 1975.
 
 ![Slika 1](/assets/img/2026-01-14_heli50let.jpg)
