@@ -6,7 +6,7 @@ title: Kdo smo
 ![Modra Ptica logo](/assets/img/dma-logo.jpg)
 
 ### O društvu
-Društvo za modelarstvo in aeronavtiko MODRA PTICA iz Domžal je bilo ustanovljeno  že leta 1975 in od takrat neprekinjeno delujemo že več kot 45 let. Trenutno ima društvo več deset aktivnih članov, od osnovnošolcev pa do modelarjev, ki se s tem zanimivim in poučnim hobijem ukvarjamo tudi že več desetletij.
+Društvo za modelarstvo in aeronavtiko MODRA PTICA iz Domžal je bilo ustanovljeno  že leta 1975 in od takrat neprekinjeno delujemo že več kot 50 let. Trenutno ima društvo več deset aktivnih članov, od osnovnošolcev pa do modelarjev, ki se s tem zanimivim in poučnim hobijem ukvarjamo tudi že več desetletij.
 
 Naša glavna dejavnost je izdelava in letenje daljinsko upravljanih modelov in maket letal, niso nam pa tuje tudi druge zvrsti modelarstva kot so daljinsko upravljani helikopterji, droni, čolni, avtomobili in pa tudi rakete. Društvo ima pri v Krtini tudi svojo vzletno modelarsko stezo, avtomobilski modelarji pa uporabljamo stezo za „off-road“ avtomobile v Komendi.
 Pri tem hobiju si mladi nabirajo neprecenljiva fizikalna znanja o povezana z letenjem letal, mehaniko, elektrotehniko, elektroniko...  Zelo pomembna pa je medsebojna pomoč članov pri prenosu izkušenj.
